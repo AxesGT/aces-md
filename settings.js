@@ -62,15 +62,15 @@ global.socialm = "GitHub: Sa-vage" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['254112976931']
-global.ownertag = '254112976931' //ur tag number
-global.botname = 'Rebel😤' //ur bot name
+global.owner = ['254758072406']
+global.ownertag = '254758072406' //ur tag number
+global.botname = 'Rebel' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LlAuvdEkoK62rdtmpBRqDZ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website to be displayed
 global.botscript = 'https://github.com/Sa-vage/whatsbot' //script link
 global.reactmoji = "🥋" //ur menu react emoji
 global.themeemoji = "🤔" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "🤔\n\n\n\n\n\n\n\n\n\n\n " //ur sticker watermark packname
 global.author = "Weird👽" //ur sticker watermark author
 
 //Bot theme media
